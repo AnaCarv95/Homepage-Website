@@ -6,7 +6,7 @@ st.set_page_config(layout="wide")
 empty_col1, col1, col2, empty_col2 = st.columns([1.5,1,1.5,1])
 
 with col1:
-    st.image("images/photo.jpeg",width=300)
+    st.image("images/photo.jpeg",width=400)
 
 with col2:
     st.title("Ana Carvajal Peraza")
